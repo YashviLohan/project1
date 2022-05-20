@@ -10,7 +10,7 @@ body{
 }
 .signup{
     position: absolute;
-    top: 60%;
+    top: 61%;
     left: 40%;
     transform: translate(-50%, -50%);
     width: 400px;
@@ -23,7 +23,7 @@ body{
 }
 .signup p{
     font-size: 40px;
-    margin: 20px 0;
+    margin: 21px 0;
 }
 .signup input{
     border: none;
