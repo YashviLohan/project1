@@ -27,11 +27,11 @@ body{
 }
 .signup input{
     border: none;
-	border-bottom: 6px solid #fff;
+	border-bottom: 1px solid #fff;
 	background: transparent;
 	outline: none;
 	height: 50px;
-	color: #ff;
+	color: #fff;
 	font-size: 18px;
     width: 110%;
 }
